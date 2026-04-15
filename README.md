@@ -1,4 +1,4 @@
-# Programa-o-Orientada-a-Objetos-I
+# Programação-Orientada-a-Objetos-I / Object-Oriented Programming I
 materia ministrada por professor mestre Marcel da Silva Melo, no Instituto Federal Goiano.
 Repositório dedicado à disciplina de Programação Orientada a Objetos I, com exercícios, projetos e exemplos práticos desenvolvidos durante a matéria. Aborda conceitos fundamentais como classes, objetos, encapsulamento, herança, polimorfismo e coleções, utilizando a linguagem Java para aplicar boas práticas de desenvolvimento e lógica de programação.
 
